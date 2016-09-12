@@ -1,4 +1,6 @@
-package com.app;
+package com.app.Impl;
+
+import com.app.Palindrome;
 
 /**
  * Created by Vitaly on 12.09.16.

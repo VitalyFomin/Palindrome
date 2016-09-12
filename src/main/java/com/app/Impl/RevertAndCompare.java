@@ -1,4 +1,6 @@
-package com.app;
+package com.app.Impl;
+
+import com.app.Palindrome;
 
 public class RevertAndCompare implements Palindrome {
 
